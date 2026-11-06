@@ -20,7 +20,7 @@ export const profile = {
     linkedin: 'https://linkedin.com/in/vineeth-kumar-reddy-pasala',
     leetcode: 'https://leetcode.com/u/pasalavineethreddy',
     hackerrank: 'https://www.hackerrank.com/profile/vineethreddy017',
-    bytexl: 'https://bytexl.com',
+    bytexl: 'https://app.bytexl.ai/@pasalavineethkumarreddy',
     blooddrop: 'https://blooddrop360.vercel.app/',
     wolvguard: 'https://wolvguard.vercel.app',
   },
